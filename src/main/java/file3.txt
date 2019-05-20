@@ -1,6 +1,6 @@
-word9
-word3
-word10
-word4
-word12
-word13
+word 9
+word 3
+word 10
+word 4
+word 12
+word 13
